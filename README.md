@@ -1,11 +1,11 @@
-About r-gggibbous
-=================
+About r-gggibbous-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gggibbous-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mnbram/gggibbous
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gggibbous-feedstock/blob/main/LICENSE.txt)
 
 Summary: Moon charts are like pie charts except that the proportions are shown as crescent or gibbous portions of a circle, like the lit and unlit portions of the moon. As such, they work best with only one or two groups. 'gggibbous' extends 'ggplot2' to allow for plotting multiple moon charts in a single panel and does not require a square coordinate system.
 
